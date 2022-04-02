@@ -34,17 +34,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+While going forth and attempting my submission for the CodePath 2022 Summer Internship at site, some outside sources that I have used in order to help me complete my submission would be W3Resource.com and the FreeCodeCamp youtube video "Learn HTML CSS From Scratch". From both of these resources, I was able to gain a clear understanding of how to use certain controls such as the active button, hexidecimal, and fundamental knowledge of JavaScript to be able to understand my code. Along with this, the  website W3Resource.com allowed me to understand what a div element is.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One challenge I have encountered in creating this submission would be creating the buttons and having the background light up and coordinate to my css code. While trying to make my 4 buttons light up and coordinate with the sound, I have found it difficult to have the buttons start playing after the "start button" was pushed, and play the correct sound that was designed. Along with this, implementing the sound feature within the website was a challenged I encountered as well, as certain times, the correct sound would not play or be delayed. One way I overcame this challenge was through a series of steps and procedures. I first began in debugging the code, and see where in my CSS and JS file was wrong. I began looking at the coded parts of the #active buttons, and the color code as well, as certain functions in the javascript file. The 2nd step I have done after this was check that I have inserted all the correct code that was given from the codepath prework to ensure that I have copied and pasted the  correct functions with my own additional details. Finally, with these two steps involved I have figured out the steps needed to be done to fix my code, in which I have forgotten to add the turn on function for the button.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing my submission for the Codepath Summer 2022 Internship I am really curious about how website are created and want to learn more on how html, css and js are incorpated into a website. Using a IDE like Glitch has really opened my perspective on web development and I question on how certain website are created with security, how do website transfer message, and how can one webpage, link into another webage, like youtube, and faceebook? I question as well, if there are databases and servers that hold certain websites, and how do we use those when creating on.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+If I had a few more hours to work on this project, i would like to work on a couple of more features such as incorpating "lives" on my memory game and displaying it, and including a feature where maybe the sound could be used from recent music. Along with this, I would love to be able to refactor certain functions to make them work effiecently and faster, and incorporate more buttons that a user can use such as a "hint" button. Futher along this, with more time, I would have like to also be able to expand the website where, there can be extension of this game, taking you to another "level" in the form of a "linked webpage"
 
 
 ## Interview Recording URL Link
