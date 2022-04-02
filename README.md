@@ -3,9 +3,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Jaskiran Parmar**
 
-Time spent: **#** hours spent in total
+Time spent: **2** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -21,19 +21,6 @@ The following **required** functionality is complete:
 * [ ] User wins the game after guessing a complete pattern
 * [ ] User loses the game after an incorrect guess
 
-The following **optional** features are implemented:
-
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
-
-The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
@@ -62,12 +49,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=pw3c5VI_O38)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Jaskiran Parmar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
